@@ -1,4 +1,4 @@
-package com.example.mobiledeveloping
+package com.example.mobiledeveloping.task1
 
 fun main(){
     var firstNumber = 15
