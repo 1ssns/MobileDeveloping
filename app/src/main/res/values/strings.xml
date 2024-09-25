@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MobileDeveloping</string>
+    <string name="top_bar_icon_content_description">App bar favorite icon</string>
+    <string name="top_bar_label">My First App</string>
 </resources>
