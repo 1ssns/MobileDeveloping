@@ -1,4 +1,4 @@
-package com.example.mobiledeveloping.chats.screen.components.top.bar
+package com.example.mobiledeveloping.chats.screen.composables.top.bar
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Box
@@ -21,7 +21,7 @@ import com.example.mobiledeveloping.R
 
 @Composable
 fun TopBar() {
-    Box(
+    return Box(
         modifier = Modifier
             .fillMaxWidth()
             .height(60.dp)
@@ -44,8 +44,8 @@ fun TopBar() {
                 modifier = Modifier.fillMaxSize()
             ) {
                 Text(
-                    stringResource(R.string.top_bar_label),
-                    Modifier.padding(3.dp),
+                    text = stringResource(R.string.top_bar_label),
+                    modifier = Modifier.padding(3.dp),
                     fontSize = 24.sp
                 )
             }

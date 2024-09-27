@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">MobileDeveloping</string>
-    <string name="top_bar_icon_content_description">App bar favorite icon</string>
+    <string name="top_bar_icon_content_description">Top bar favorite icon</string>
     <string name="top_bar_label">My First App</string>
+    <string name="chats_list_title">Hello! That\'s your last chats</string>
+    <string name="chat_logo_icon_content_description">Chat icon</string>
 </resources>

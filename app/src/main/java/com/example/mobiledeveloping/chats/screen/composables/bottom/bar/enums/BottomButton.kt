@@ -1,4 +1,4 @@
-package com.example.mobiledeveloping.chats.screen.components.bottom.bar.enums
+package com.example.mobiledeveloping.chats.screen.composables.bottom.bar.enums
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.size
